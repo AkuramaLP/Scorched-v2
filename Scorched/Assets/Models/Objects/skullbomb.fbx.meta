@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: f54651c4c2bc51744806868f2e3d8824
+timeCreated: 1485438189
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: polySurface195
+    100002: polySurface197
+    100004: polySurface197 1
+    100006: polySurface198
+    100008: polySurface199
+    100010: polySurface200
+    100012: polySurface201
+    100014: polySurface202
+    100016: polySurface203
+    100018: //RootNode
+    100020: SKULLGUN1:GUN2:GUN_1:pCylinder2
+    100022: SKULLGUN1:GUN2:GUN_1:polySurface10
+    100024: SKULLGUN1:GUN2:GUN_1:polySurface7
+    100026: SKULLGUN1:GUN2:GUN_1:polySurface8
+    100028: SKULLGUN1:GUN2:GUN_1:polySurface9
+    100030: SKULLGUN1:GUN2:GUN_1:pTorus1
+    100032: SKULLGUN1:GUN2:GUN_1:pTorus2
+    100034: SKULLGUN1:GUN2:GUN_1:pTorus3
+    100036: SKULLGUN1:GUN2:GUN_1:pTorus4
+    100038: SKULLGUN1:GUN2:GUN_1:pTorus5
+    100040: SKULLGUN1:GUN2:GUN_1:pTorus6
+    100042: SKULLGUN1:GUN2:GUN_1:transform10
+    100044: SKULLGUN1:GUN2:GUN_1:transform11
+    100046: SKULLGUN1:GUN2:GUN_1:transform12
+    100048: SKULLGUN1:GUN2:GUN_1:transform13
+    100050: SKULLGUN1:GUN2:GUN_1:transform14
+    100052: SKULLGUN1:GUN2:GUN_1:transform15
+    100054: SKULLGUN1:GUN2:GUN_1:transform16
+    100056: SKULLGUN1:GUN2:GUN_1:transform17
+    100058: SKULLGUN1:GUN2:GUN_1:transform18
+    100060: SKULLGUN1:GUN2:GUN_1:transform19
+    100062: SKULLGUN1:GUN2:GUN_1:transform20
+    100064: SKULLGUN1:ribcagewall_2:pCylinder1
+    100066: SKULLGUN1:ribcagewall_2:pCylinder2
+    100068: SKULLGUN1:ribcagewall_2:pCylinder3
+    100070: SKULLGUN1:ribcagewall_2:pCylinder4
+    100072: SKULLGUN1:ribcagewall_2:pCylinder5
+    100074: SKULLGUN1:ribcagewall_2:pCylinder6
+    100076: SKULLGUN1:ribcagewall_2:pCylinder7
+    100078: SKULLGUN1:ribcagewall_2:transform1
+    100080: SKULLGUN1:ribcagewall_2:transform2
+    100082: SKULLGUN1:ribcagewall_2:transform3
+    100084: SKULLGUN1:ribcagewall_2:transform4
+    100086: SKULLGUN1:ribcagewall_2:transform5
+    100088: SKULLGUN1:ribcagewall_2:transform6
+    100090: SKULLGUN1:ribcagewall_2:transform7
+    100092: transform1
+    100094: transform2
+    100096: transform3
+    100098: transform4
+    100100: transform5
+    100102: transform6
+    100104: transform7
+    400000: polySurface195
+    400002: polySurface197
+    400004: polySurface197 1
+    400006: polySurface198
+    400008: polySurface199
+    400010: polySurface200
+    400012: polySurface201
+    400014: polySurface202
+    400016: polySurface203
+    400018: //RootNode
+    400020: SKULLGUN1:GUN2:GUN_1:pCylinder2
+    400022: SKULLGUN1:GUN2:GUN_1:polySurface10
+    400024: SKULLGUN1:GUN2:GUN_1:polySurface7
+    400026: SKULLGUN1:GUN2:GUN_1:polySurface8
+    400028: SKULLGUN1:GUN2:GUN_1:polySurface9
+    400030: SKULLGUN1:GUN2:GUN_1:pTorus1
+    400032: SKULLGUN1:GUN2:GUN_1:pTorus2
+    400034: SKULLGUN1:GUN2:GUN_1:pTorus3
+    400036: SKULLGUN1:GUN2:GUN_1:pTorus4
+    400038: SKULLGUN1:GUN2:GUN_1:pTorus5
+    400040: SKULLGUN1:GUN2:GUN_1:pTorus6
+    400042: SKULLGUN1:GUN2:GUN_1:transform10
+    400044: SKULLGUN1:GUN2:GUN_1:transform11
+    400046: SKULLGUN1:GUN2:GUN_1:transform12
+    400048: SKULLGUN1:GUN2:GUN_1:transform13
+    400050: SKULLGUN1:GUN2:GUN_1:transform14
+    400052: SKULLGUN1:GUN2:GUN_1:transform15
+    400054: SKULLGUN1:GUN2:GUN_1:transform16
+    400056: SKULLGUN1:GUN2:GUN_1:transform17
+    400058: SKULLGUN1:GUN2:GUN_1:transform18
+    400060: SKULLGUN1:GUN2:GUN_1:transform19
+    400062: SKULLGUN1:GUN2:GUN_1:transform20
+    400064: SKULLGUN1:ribcagewall_2:pCylinder1
+    400066: SKULLGUN1:ribcagewall_2:pCylinder2
+    400068: SKULLGUN1:ribcagewall_2:pCylinder3
+    400070: SKULLGUN1:ribcagewall_2:pCylinder4
+    400072: SKULLGUN1:ribcagewall_2:pCylinder5
+    400074: SKULLGUN1:ribcagewall_2:pCylinder6
+    400076: SKULLGUN1:ribcagewall_2:pCylinder7
+    400078: SKULLGUN1:ribcagewall_2:transform1
+    400080: SKULLGUN1:ribcagewall_2:transform2
+    400082: SKULLGUN1:ribcagewall_2:transform3
+    400084: SKULLGUN1:ribcagewall_2:transform4
+    400086: SKULLGUN1:ribcagewall_2:transform5
+    400088: SKULLGUN1:ribcagewall_2:transform6
+    400090: SKULLGUN1:ribcagewall_2:transform7
+    400092: transform1
+    400094: transform2
+    400096: transform3
+    400098: transform4
+    400100: transform5
+    400102: transform6
+    400104: transform7
+    2300000: polySurface197
+    3300000: polySurface197
+    4300000: polySurface197
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
